@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background:#FFF;
+	}
+.body{
+	width: 70%;
+	background:#FFF;
+	margin: 0 auto;
+	clear: both;
+	}
+.table{
+	border-radius: 10px;
+	margin-top:15%;
+	font-family:"Courier New", Courier, monospace;
+	}
+.tr{
+	border-radius: 10px;
+	}

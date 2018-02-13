@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+.table{
+	border-radius: 10px;
+	margin-top:15%;
+	font-family:"Courier New", Courier, monospace;
+	}
+.tr{
+	border-radius: ;
+	}
+td{
+	padding-left: 5px;
+	}
